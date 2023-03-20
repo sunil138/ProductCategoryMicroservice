@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProductCategory_MOngoDb_Mar17.props" />
+</Project>

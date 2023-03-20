@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LoginTokenSql_Mar17.props" />
+</Project>
